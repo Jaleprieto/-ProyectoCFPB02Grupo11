@@ -12,9 +12,9 @@ public class DiaDeLaSemana {
         switch (numeroDia) {
             case 1: nombreDia = "Monday"; break;
             case 2: nombreDia = "tuesday"; break;
-            case 3: nombreDia = "Miércoles"; break;
-            case 4: nombreDia = "Jueves"; break;
-            case 5: nombreDia = "Viernes"; break;
+            case 3: nombreDia = "wednesday"; break;
+            case 4: nombreDia = "thursday"; break;
+            case 5: nombreDia = "friday"; break;
             case 6: nombreDia = "Sábado"; break;
             case 7: nombreDia = "Domingo"; break;
             default: nombreDia = "Número de día no válido"; break; // Caso por defecto
