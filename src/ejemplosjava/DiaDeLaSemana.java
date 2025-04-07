@@ -15,7 +15,7 @@ public class DiaDeLaSemana {
             case 3: nombreDia = "wednesday"; break;
             case 4: nombreDia = "thursday"; break;
             case 5: nombreDia = "friday"; break;
-            case 6: nombreDia = "Sábado"; break;
+            case 6: nombreDia = "saturday"; break;
             case 7: nombreDia = "Domingo"; break;
             default: nombreDia = "Número de día no válido"; break; // Caso por defecto
         }
