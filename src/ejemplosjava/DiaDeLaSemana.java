@@ -10,7 +10,7 @@ public class DiaDeLaSemana {
 
         String nombreDia;
         switch (numeroDia) {
-            case 1: nombreDia = "monday"; break;
+            case 1: nombreDia = "Monday"; break;
             case 2: nombreDia = "Martes"; break;
             case 3: nombreDia = "Miércoles"; break;
             case 4: nombreDia = "Jueves"; break;
